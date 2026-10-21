@@ -1,0 +1,5 @@
+Debut
+Declaration
+Variable a : Entier ;
+Variable a : Reel ;
+Fin

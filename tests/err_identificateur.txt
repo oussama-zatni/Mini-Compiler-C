@@ -1,0 +1,4 @@
+Debut
+Declaration
+Variable temp : Entier;
+Fin

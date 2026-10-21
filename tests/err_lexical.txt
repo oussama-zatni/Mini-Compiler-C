@@ -1,0 +1,5 @@
+Debut
+Declaration
+Variable T : Entierr;
+Lire(T);
+Fin

@@ -1,0 +1,6 @@
+Debut
+Declaration
+Variable a : Entier ;
+Si(a > 1)alors
+Ecrire(a);
+Fin

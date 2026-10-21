@@ -1,0 +1,13 @@
+Debut
+Declaration
+Variable a : Entier ;
+Si(a > 1)alors
+Si(a > 5)alors
+Ecrire("grand");
+Sinon
+Lire(a);
+Finsi
+Sinon
+ecrire(a);
+Finsi
+Fin

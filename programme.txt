@@ -1,0 +1,11 @@
+Debut
+Declaration
+Variable T : Entier;
+Ecrire("Entrer une valeur en Celsius");
+Lire(T);
+Si(T <= 0)alors
+Ecrire("L'eau va etre glace");
+Sinon
+Ecrire("L'eau est liquide");
+Finsi
+Fin

@@ -1,0 +1,11 @@
+Debut
+Declaration
+Variable T : Entier;
+Ecrire("a");
+Lire(T);
+Si(T <= 0)alors
+Ecrire("g");
+Sinon
+Ecrire("b")
+Finsi
+Fin
